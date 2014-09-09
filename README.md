@@ -1,5 +1,5 @@
 #exer 02
 
-##rnard Prince
+##Bernard Prince
 SIO-2109
-Sept. 8th, 2014
+Sept. 8th, 2014 
