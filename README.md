@@ -1,5 +1,5 @@
-README for exer 02
+#exer 02
 
-Bernard Prince
+##rnard Prince
 SIO-2109
 Sept. 8th, 2014
